@@ -1,0 +1,3 @@
+Below are the numbers which is divisible by 3 and 5 both: 
+
+15	30	45	
